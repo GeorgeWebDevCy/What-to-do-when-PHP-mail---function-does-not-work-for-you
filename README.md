@@ -25,3 +25,6 @@ SMTP = localhost
 You should change it to something like what is shown below. Make sure you use the same setting like you use in outlook for example for that same domain/account
 SMTP = smtp.example.com
 smtp_port = 25
+
+
+related blog post is here: https://www.georgenicolaou.me/php-mail-function-doesnt-work/
